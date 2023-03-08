@@ -9,4 +9,17 @@ Language(s):
 Libraries:
 - NumPy
 - Matplotlib
+  
+<p>&nbsp;</p> 
 
+## [Project: Monte Hall Game and Probability](https://github.com/johnbaguinaga/Monte-Hall-Game-and-Probability)
+
+This project goes over the infamous Monte Hall problem, how we can illustrate the game using code and the ramifications of probability and decision making.
+
+Language(s):
+
+- Python
+
+Libraries:
+- Numpy
+- Matplotlib
