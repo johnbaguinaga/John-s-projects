@@ -21,5 +21,5 @@ Language(s):
 - Python
 
 Libraries:
-- Numpy
+- NumPy
 - Matplotlib
