@@ -1,2 +1,2 @@
-# John-s-projects
+# Johns-projects
 Personal/Coursework Projects
