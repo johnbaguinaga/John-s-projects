@@ -1,1 +1,3 @@
-theme: slate
+title: John Aguinaga's Projects
+#description: [A short description of your site's purpose]
+remote_theme: pages-themes/slate@v0.2.0
