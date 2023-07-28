@@ -13,7 +13,7 @@ Libraries:
 - Gower
 
 <p>&nbsp;</p> 
-
+    
 ## [Project 2: Central Limit Theorem and Random Walks](https://github.com/johnbaguinaga/Central-Limit-Theorem-and-Random-Walks)
   
 Here we go over the central limit theorem, its implications and how we can use random walks to show how independent random variables are normalized as we increase the number of data.
@@ -26,7 +26,7 @@ Libraries:
 - NumPy
 - Matplotlib
   
-<p>&nbsp;</p> 
+<p>&nbsp;</p>    
 
 ## [Project 3: Monte Hall Game and Probability](https://github.com/johnbaguinaga/Monte-Hall-Game-and-Probability)
 
@@ -39,3 +39,4 @@ Language(s):
 Libraries:
 - NumPy
 - Matplotlib
+  
