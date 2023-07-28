@@ -1,4 +1,4 @@
-## [Project: Clustering for Healthcare Efficiency](https://github.com/johnbaguinaga/Clustering_for_Healthcare_Efficiency)
+## [Project: Clustering for Healthcare](https://github.com/johnbaguinaga/Clustering_for_Healthcare)
 For this project, I employ a clustering algorithm and used it to do some basic exploration of patient discharge data that came directly from New Yorks State Department of Health. 
 
 Language(s):
